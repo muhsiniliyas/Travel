@@ -60,7 +60,7 @@ const SignIn = () => {
                   onChange={(e) => setEmail(e.target.value)}
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg 
                              focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-                  placeholder="you@example.com"
+                  placeholder="you@gmail.com"
                   disabled={isLoading}
                   required
                 />
