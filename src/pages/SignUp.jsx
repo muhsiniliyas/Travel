@@ -79,7 +79,7 @@ const SignUp = () => {
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg 
                                focus:outline-none focus:ring-2 focus:ring-secondary"
-                    placeholder="John Doe"
+                    placeholder="Your Name"
                     required
                   />
                 </div>
@@ -95,7 +95,7 @@ const SignUp = () => {
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg 
                                focus:outline-none focus:ring-2 focus:ring-secondary"
-                    placeholder="you@example.com"
+                    placeholder="you@gmail.com"
                     required
                   />
                 </div>
